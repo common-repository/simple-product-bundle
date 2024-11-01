@@ -1,0 +1,168 @@
+# Copyright (C) 2021 Simple Product Bundle
+# This file is distributed under the same license as the Simple Product Bundle package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Product Bundle 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/simple-product-"
+"bundle\n"
+"POT-Creation-Date: 2021-12-23 09:48+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-12-23 09:52+0100\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it_IT\n"
+
+#: includes/bundle-free-admin.php:20
+msgid "Do you want to customize the look of your bundle?"
+msgstr "Vuoi personalizzare l'aspetto del tuo bundle?"
+
+#: includes/bundle-free-admin.php:22
+msgid ""
+"With Simple Product Bundle PRO you can highly customize the offers of your "
+"site and attract more clients:"
+msgstr ""
+"Con Simple Product Bundle PRO puoi personalizzare maggiormente le offerte "
+"del tuo sito e catturare l'attenzione dei tuoi clienti:"
+
+#: includes/bundle-free-admin.php:27
+msgid ""
+"Compatible with multilingual (you can create different offers per language)"
+msgstr ""
+"Compatibile con il multilingua (puoi creare offerte diverse tra lingue)"
+
+#: includes/bundle-free-admin.php:30
+msgid ""
+"You can use the shortcode to publishh your bundle anywhere you want on the "
+"product page"
+msgstr ""
+"Puoi utilizzare lo shortcode per pubblicare il bundle dove vuoi "
+"all'interno della scheda prodotto"
+
+#: includes/bundle-free-admin.php:33
+msgid "Customize the graphic aspect of your bundle"
+msgstr "Personalizza l’aspetto grafico del tuo bundle"
+
+#: includes/bundle-free-admin.php:36
+msgid "Customize the font size and the colors of the button and texts"
+msgstr "Personalizza la grandezze e i colori dei pulsanti e dei testi"
+
+#: includes/bundle-free-admin.php:50
+msgid "Discover the PRO version"
+msgstr "Scopri la versione PRO"
+
+#: includes/bundle-free-admin.php:53
+msgid "Read the full documentation"
+msgstr "Leggi la documentazione completa"
+
+#: includes/bundle-free-structure.php:21
+msgid "Activate Bundle"
+msgstr "Attiva Bundle"
+
+#: includes/bundle-free-structure.php:26
+msgid "Bundle Title"
+msgstr "Titolo del Bundle"
+
+#: includes/bundle-free-structure.php:27
+msgid "Enter the title of the Bundle"
+msgstr "Inserisci il titolo del Bundle"
+
+#: includes/bundle-free-structure.php:30
+msgid "Suggest a dedicated promotion or promote related products"
+msgstr "Suggerisci una promozione dedicata o promuovi i prodotti correlati"
+
+#: includes/bundle-free-structure.php:35
+msgid "Activate Discount"
+msgstr "Attiva Sconto"
+
+#: includes/bundle-free-structure.php:40
+msgid "Percentage discount"
+msgstr "Sconto in percentuale"
+
+#: includes/bundle-free-structure.php:41
+msgid "Enter the percentage to apply"
+msgstr "Inserisci la percentuale da applicare"
+
+#: includes/bundle-free-structure.php:44
+msgid ""
+"Activate a precentage discount on the total number of products included in "
+"the Bundle"
+msgstr ""
+"Attiva uno sconto in percentuale sul numero totale di prodotti inclusi nel "
+"Bundle"
+
+#: includes/bundle-free-structure.php:50
+msgid "Enter the products"
+msgstr "Inserisci i prodotti"
+
+#: includes/bundle-free-structure.php:64
+msgid "Update Bundle"
+msgstr "Aggiorna Bundle"
+
+#: includes/bundle-free-structure.php:71
+msgid "Attention! "
+msgstr "Attenzione!"
+
+#: includes/bundle-free-structure.php:72
+msgid "The product: "
+msgstr "Il prodotto:"
+
+#: includes/bundle-free-structure.php:74
+msgid "is out of stock."
+msgstr "è esaurito."
+
+#: includes/bundle-free-structure.php:75
+msgid ""
+"The bundle will not be visible on the product page, please remove the "
+"&#10004; on the checkbox "
+msgstr ""
+"Il bundle non sarà più visibile sulla pagina del prodotto, rimuovi la "
+"&#10004; sulla checkbox"
+
+#: includes/bundle-free-structure.php:76
+msgid "\"Activate Bundle\" "
+msgstr "\"Attiva Bundle\""
+
+#: includes/bundle-free-structure.php:77
+msgid "or create a new offer."
+msgstr "oppure crea una nuova offerta."
+
+#: includes/bundle-free-structure.php:147
+#: includes/bundle-free-structure.php:240
+msgid "You might find interesting this offer"
+msgstr "Ti potrebbe interessare questa offerta"
+
+#: includes/bundle-free-structure.php:185
+#: includes/bundle-free-structure.php:195
+#: includes/bundle-free-structure.php:279
+#: includes/bundle-free-structure.php:289
+msgid "Products Total"
+msgstr "Totale Prodotti"
+
+#: includes/bundle-free-structure.php:190
+#: includes/bundle-free-structure.php:199
+#: includes/bundle-free-structure.php:284
+#: includes/bundle-free-structure.php:293
+msgid "Buy this offer"
+msgstr "Acquista questa offerta"
+
+#: simple-product-bundle.php:42
+msgid "Create Offer"
+msgstr "Crea Offerta"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Product Bundle"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Seleziona se promuovere dei prodotti correlati oppure di creare una "
+"promozione"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Servizi 3.0"
+msgstr ""

@@ -1,0 +1,168 @@
+button[name="add_to_cart_bundle"]:hover {
+    background-color: #2fc652;
+    border-color: #34ce57 #34ce57 #28a745;
+    color: #fff;
+}
+
+button[name="add_to_cart_bundle"]:active {
+    background-color: #218838;
+    background-image: none;
+    border-color: #1e7e34 #1e7e34 #145523;
+}
+
+button[name="add_to_cart_bundle"]:focus {
+    background-color: #157347;
+    border-color: #146c43;
+}
+
+li.name_bundle_show_text:hover {
+    color: black !important;
+}
+
+a.link_bundle_single_image_title:hover {
+    color: black !important;
+}
+
+/* ADMIN PAGE */
+
+#text_pro_version:hover {
+  text-decoration: underline !important;
+}
+
+#text_pro_version:focus {
+  box-shadow: none !important;
+}
+
+button[name="buy_pro_version"]:hover {
+  opacity: 0.8;
+}
+
+@media only screen and (max-width: 641px) {
+  #row_admin_bundle {
+    flex-direction: column !important;
+  }
+
+  #row_admin_bundle .col-6 {
+    width: auto !important;
+  }
+
+  #row_admin_bundle .col-6 .img_container {
+    padding: 0 !important;
+    margin-left: 0 !important;
+  }
+
+  #logo_servizi {
+    width: 40% !important;
+  }
+
+  #row_admin_bundle .options_text_free_version_servizitrepuntozero {
+    margin-right: 0 !important;
+  }
+
+  .bundle_list_free_version {
+    margin-top: 30px;
+  }
+
+  button[name="buy_pro_version"] {
+    font-size: 15px !important;
+  }
+
+  #text_pro_version {
+    font-size: 14px !important;
+  }
+
+  .vl {
+    padding-top: 20px !important;
+    border-bottom: 2px solid lightgray !important;
+    border-left: none !important;
+  }
+
+  #col-6_1 {
+    padding: 0 !important;
+  }
+}
+
+@media only screen and (min-width: 642px) and (max-width: 987px) {
+  #col-6_1 {
+    padding: 0px 20px 0px 0px !important;
+  }
+
+  #row_admin_bundle .options_text_free_version_servizitrepuntozero {
+    margin-right: 0 !important;
+  }
+
+  #col-6_2 {
+    padding-left: 30px !important;
+  }
+
+  .img_container {
+    margin-left: 0 !important;
+  }
+
+  button[name="buy_pro_version"] {
+    font-size: 15px !important;
+  }
+
+  #text_pro_version {
+    font-size: 14px !important;
+  }
+}
+
+@media only screen and (min-width: 642px) and (max-width: 803px) {
+  #row_admin_bundle .options_text_free_version_servizitrepuntozero {
+    text-align: left !important;
+  }
+}
+
+@media only screen and (max-width: 498px) {
+  #logo_servizi_bundle_ {
+    flex-direction: column !important;
+  }
+
+  #logo_servizi_bundle_ p {
+    padding-left: 10px;
+  }
+}
+
+/* END ADMIN PAGE */
+
+@media only screen and (max-width: 420px) {
+
+    td.bundle_name_images_single_mobile {
+        flex-direction: column !important;
+    }
+
+    .second_bundle_show_related_products_mobile .bundle_name_images_single_mobile span.price_discounted_bundle_mobile {
+        margin-bottom: 15px !important;
+    }
+}
+
+@media only screen and (max-width: 660px) {
+
+    #show_bundle_related_products_mobile {
+        display: block !important;
+    }
+
+    a.link_bundle_single_image_title_mobile:active {
+        color: black !important;
+    }
+
+    li.name_bundle_show_text_mobile:active {
+        color: black !important;
+    }
+
+    #show_bundle_related_products {
+        display: none !important;
+    }
+}
+
+@media only screen and (max-width: 1269px) and (orientation: landscape) {
+
+    #show_bundle_related_products {
+        display: none !important;
+    }
+
+    #show_bundle_related_products_mobile {
+        display: block !important;
+    }
+}
